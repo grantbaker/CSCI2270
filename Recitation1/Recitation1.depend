@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453406764 source:/home/user/Documents/Recitation1/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+

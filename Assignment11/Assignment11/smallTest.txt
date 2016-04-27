@@ -1,0 +1,5 @@
+cities,Boulder,Denver,Thornton,Westminster
+Boulder,0,20,10,8
+Denver,20,0,15,16
+Thornton,10,15,0,3
+Westminster,8,16,3,0

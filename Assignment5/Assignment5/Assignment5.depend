@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456260806 source:/home/user/Documents/Assignment5/Assignment5/main.cpp
+	<iostream>
+	"Queue.h"
+
+1456262035 /home/user/Documents/Assignment5/Assignment5/include/Queue.h
+	<iostream>
+	<sstream>
+

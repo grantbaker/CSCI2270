@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1458013449 source:/home/user/Documents/Recitation6/Recitation6/main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1458011724 /home/user/Documents/Recitation6/Recitation6/include/BinaryTree.h
+	<cstddef>
+	<iostream>
+
+1458013185 source:/home/user/Documents/Recitation6/Recitation6/src/BinaryTree.cpp
+	"BinaryTree.h"
+

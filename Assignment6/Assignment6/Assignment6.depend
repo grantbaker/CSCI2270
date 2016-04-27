@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1456526163 source:/home/user/Documents/Assignment6/Assignment6/main.cpp
+	<iostream>
+	"MovieTree.h"
+
+1456613949 source:/home/user/Documents/Assignment6/Assignment6/src/MovieTree.cpp
+	"MovieTree.h"
+
+1456616904 /home/user/Documents/Assignment6/Assignment6/include/MovieTree.h
+	<iostream>
+	<sstream>
+	<fstream>
+

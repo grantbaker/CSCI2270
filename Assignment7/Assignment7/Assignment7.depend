@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1457038126 source:/home/user/Documents/Assignment7/Assignment7/main.cpp
+	<iostream>
+	"MovieTree.h"
+
+1457042608 /home/user/Documents/Assignment7/Assignment7/include/MovieTree.h
+	<iostream>
+	<sstream>
+	<fstream>
+
+1457045491 source:/home/user/Documents/Assignment7/Assignment7/src/MovieTree.cpp
+	"MovieTree.h"
+
+1457042608 /home/user/Documents/Assignment7/Assignment7/MovieTree.h
+	<iostream>
+	<sstream>
+	<fstream>
+

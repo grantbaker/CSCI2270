@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461121993 source:/home/user/Documents/Assignment12/Assignment12/main.cpp
+	<iostream>
+	"HashTable.h"
+	<sstream>
+
+1461123136 /home/user/Documents/Assignment12/Assignment12/include/HashTable.h
+	<vector>
+	<iostream>
+	<algorithm>
+
+1461123210 source:/home/user/Documents/Assignment12/Assignment12/src/HashTable.cpp
+	"HashTable.h"
+

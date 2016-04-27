@@ -1,0 +1,4 @@
+bike, for sale, 50
+chicken, for sale, 60
+microwave, wanted, 201
+bike, wanted, 60
